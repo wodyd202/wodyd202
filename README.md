@@ -3,7 +3,7 @@
 
  ![Jaeyong Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodyd202&show_icons=true&theme=radical)
 
-<br>
+<br/>
 
 ### ✨ Skills ✨
 <img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white&color=important"/>
@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/Redis-3DDC84?style=flat-square&logo=Redis&logoColor=white&color=red"/>
 <img src="https://img.shields.io/badge/javascript-3DDC84?style=flat-square&logo=javascript&logoColor=white&color=yellow"/>
 
-<br>
-<br>
+<br/>
+<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=wodyd202&show_icons=true)

@@ -6,10 +6,8 @@
 <br>
 
 ### ✨ Skills ✨
-<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-
-square&logo=Java&logoColor=white&color=important"/>
-<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-
-square&logo=Spring&logoColor=white&color=success"/>
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Java&logoColor=white&color=important"/>
+<img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=white&color=success"/>
 <img src="https://img.shields.io/badge/Mysql-3DDC84?style=flat-
 square&logo=Mysql&logoColor=white&color=yellowgreen"/>
 <img src="https://img.shields.io/badge/Kafka-3DDC84?style=flat-
